@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there! 👋 I'm Md. Nahid Hasan Bappi
 
-<!--
-**nbappi13/nbappi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Junior Web Developer | Passionate Problem Solver
 
-Here are some ideas to get you started:
+Throughout my academic journey at **Dhaka University**, I have cultivated strong technical and analytical skills, excelling in both academics and extracurricular activities. My experience leading a **research monograph design course** strengthened my leadership and teamwork abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack & Skills:
+- **Web Development**: JavaScript, React, Node.js, MongoDB, Express.js, JWT  
+- **Programming**: C Programming (Problem Solving & Logical Thinking)  
+- **Other Tools**: HTML, CSS(tailwind css also) Microsoft Excel, PowerPoint, Word, Google Suite, project management 
+- **Soft Skills**: Leadership, Communication, Critical Thinking, Policy Analysis  
+
+
+## 🌐 Live Projects & Problem Solving
+
+### 🚀 Live Projects (Netlify)
+Here are some of my featured projects:  
+- 🔹 [Project 1 - sports-gear](https://sports-gear.netlify.app/)  
+- 🔹 [Project 2 - career-inspire](https://career-inspire.netlify.app/)  
+- 🔹 [Project 3 - gadget-heaven-tech-hub](https://gadget-heaven-tech-hub.netlify.app/)  
+- 🔹 [Project 4 - nhb-dream-11](https://nhb-dream-11.netlify.app/)  
+- 🔹 [Project 5 - petvibe](https://petvibe.netlify.app/)  
+➡ **View More Projects**: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)  
+
+### 🔢 Competitive Coding (Problem-Solving)
+- **[Codeforces Profile](https://codeforces.com/profile/nahidbappi13)** _(Sharpening my problem-solving skills with C)_  
+
+
+### ⚡ Beyond Coding:
+🏏 Cricket Enthusiast (Opening Batsman) | 🏊 Passion for Swimming  
+
+📌 **Looking for a Junior Web Developer role** | Open to collaborations & learning opportunities!  
+
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/nahid-bappi/) | | [Email](nahidbappi13@gmail.com)
