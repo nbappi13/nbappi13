@@ -17,11 +17,12 @@ Throughout my academic journey at **Dhaka University**, I have cultivated strong
 
 ### 🚀 Live Projects (Netlify)
 Here are some of my featured projects:  
-- 🔹 [Project 1 - sports-gear](https://sports-gear.netlify.app/)  
-- 🔹 [Project 2 - career-inspire](https://career-inspire.netlify.app/)  
-- 🔹 [Project 3 - gadget-heaven-tech-hub](https://gadget-heaven-tech-hub.netlify.app/)  
-- 🔹 [Project 4 - nhb-dream-11](https://nhb-dream-11.netlify.app/)  
-- 🔹 [Project 5 - petvibe](https://petvibe.netlify.app/)  
+- 🔹 [Project 1 - sports-gear](https://culinary-canvas-kitchen.netlify.app/)
+- 🔹 [Project 2 - sports-gear](https://sports-gear.netlify.app/) 
+- 🔹 [Project 3 - career-inspire](https://career-inspire.netlify.app/)  
+- 🔹 [Project 4 - gadget-heaven-tech-hub](https://gadget-heaven-tech-hub.netlify.app/)  
+- 🔹 [Project 5 - nhb-dream-11](https://nhb-dream-11.netlify.app/)  
+- 🔹 [Project 6 - petvibe](https://petvibe.netlify.app/)  
 ➡ **View More Projects**: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)  
 
 ### 🔢 Competitive Coding (Problem-Solving)
