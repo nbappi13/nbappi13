@@ -17,7 +17,7 @@ Throughout my academic journey at **Dhaka University**, I have cultivated strong
 
 ### 🚀 Live Projects (Netlify)
 Here are some of my featured projects:  
-- 🔹 [Project 1 - sports-gear](https://culinary-canvas-kitchen.netlify.app/)
+- 🔹 [Project 1 - culinary-canvas](https://culinary-canvas-kitchen.netlify.app/)
 - 🔹 [Project 2 - sports-gear](https://sports-gear.netlify.app/) 
 - 🔹 [Project 3 - career-inspire](https://career-inspire.netlify.app/)  
 - 🔹 [Project 4 - gadget-heaven-tech-hub](https://gadget-heaven-tech-hub.netlify.app/)  
