@@ -36,6 +36,9 @@ I’m currently self-learning Data Structures and Algorithms (DSA) using JavaScr
 ### ⚡ Beyond Coding:
 🏏 Cricket Enthusiast (Opening Batsman) | 🏊 Passion for Swimming  
 
+##  Hobbies
+Reforestation is my passion – transforming barren spaces into lush landscapes. I dream of a world where trees reach the sky, grass covers the earth, and nature thrives. Through planting, we restore balance between humanity and the environment.
+
 📌 **Looking for a Junior Web Developer role** | Open to collaborations & learning opportunities!  
 
 ## 📫 Let's Connect
