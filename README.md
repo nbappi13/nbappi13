@@ -26,7 +26,10 @@ Here are some of my featured projects:
 ➡ **View More Projects**: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)  
 
 ### 🔢 Competitive Coding (Problem-Solving)
-- **[Codeforces Profile](https://codeforces.com/profile/nahidbappi13)** _(Sharpening my problem-solving skills with C)_  
+- **[Codeforces Profile](https://codeforces.com/profile/nahidbappi13)** _(Sharpening my problem-solving skills with C)_
+
+📘 Learning DSA with JavaScript
+I’m currently self-learning Data Structures and Algorithms (DSA) using JavaScript, alongside my web development journey. Strengthening my problem-solving skills to become a more efficient and confident developer. 🚀
 
 
 ### ⚡ Beyond Coding:
