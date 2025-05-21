@@ -9,7 +9,7 @@ Throughout my academic journey at **Dhaka University**, I have cultivated strong
 ### 🛠 Tech Stack & Skills:
 - **Web Development**: JavaScript, React, Node.js, MongoDB, Express.js, JWT  
 - **Programming**: C Programming (Problem Solving & Logical Thinking), JavaScript  
-- **Other Tools**: Git/GitHub, Microsoft Excel, PowerPoint, Word, Google Suite 
+- **Other Tools**: Git/GitHub, Postman, Microsoft Excel, PowerPoint, Word, Google Suite 
 - **Soft Skills**: Leadership, Communication, Critical Thinking, Policy Analysis  
 
 
