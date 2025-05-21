@@ -38,4 +38,4 @@ I’m currently self-learning Data Structures and Algorithms (DSA) using JavaScr
 
 📌 **Looking for a Junior Web Developer role** | Open to collaborations & learning opportunities!  
 
-📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/nahid-bappi/) | | [Email](nahidbappi13@gmail.com)
+📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/nahid-bappi/) | | [Email](nahidbappi13@gmail.com) || https://mastodon.social/@Nahid_Bappi || https://x.com/nbappi13 || https://bsky.app/profile/nahid-bappi.bsky.social 
