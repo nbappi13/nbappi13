@@ -1,52 +1,89 @@
-## Hi there! 👋 I'm Md. Nahid Hasan Bappi
+<!-- Profile Header -->
+<h1 align="center">Hi there! 👋 I'm Md. Nahid Hasan Bappi</h1>
 
-### 🚀 Aspiring Junior Web Developer | Passionate Problem Solver
-
-Throughout my academic journey at **Dhaka University**, I have cultivated strong technical and analytical skills, excelling in both academics and extracurricular activities. My experience leading a **research monograph design course** strengthened my leadership and teamwork abilities.
+<p align="center">
+🚀 Aspiring Junior Web Developer | Passionate Problem Solver  
+🎓 Graduate of Dhaka University | Team Leader | Research Enthusiast  
+🌱 Currently exploring: Next.js, TypeScript & DSA with JavaScript
+</p>
 
 ---
 
-### 🛠 Tech Stack & Skills:
-- **Web Development**: JavaScript, React, Node.js, MongoDB, Express.js, JWT  
-- **Programming**: C Programming (Problem Solving & Logical Thinking), JavaScript  
-- **Other Tools**: Git/GitHub, Postman, Microsoft Excel, PowerPoint, Word, Google Suite 
-- **Soft Skills**: Leadership, Communication, Critical Thinking, Policy Analysis
-- **Currently Exploring**: Next.js, Typescript, DSA with JavaScript.
+## 🛠️ Tech Stack & Tools
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,postman,vscode" />
+</p>
 
-## 🌐 Live Projects & Problem Solving
+---
 
-### 🚀 Live Projects (Netlify)
-Here are some of my featured projects:  
-- 🔹 [Project 1 - culinary-canvas](https://culinary-canvas-kitchen.netlify.app/)
-- 🔹 [Project 2 - sports-gear](https://sports-gear.netlify.app/) 
-- 🔹 [Project 3 - career-inspire](https://career-inspire.netlify.app/)  
-- 🔹 [Project 4 - gadget-heaven-tech-hub](https://gadget-heaven-tech-hub.netlify.app/)  
-- 🔹 [Project 5 - nhb-dream-11](https://nhb-dream-11.netlify.app/)  
-- 🔹 [Project 6 - petvibe](https://petvibe.netlify.app/)  
-➡ **View More Projects**: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)  
+## 🌐 Live Projects
 
-### 🔢 Competitive Coding (Problem-Solving)
-- **[Codeforces Profile](https://codeforces.com/profile/nahidbappi13)** _(Sharpening my problem-solving skills with C)_
+Here are some of my featured deployed projects:
 
-##📘 Learning DSA with JavaScript
+- 🔹 [Culinary Canvas](https://culinary-canvas-kitchen.netlify.app/)
+- 🔹 [Sports Gear](https://sports-gear.netlify.app/) 
+- 🔹 [Career Inspire](https://career-inspire.netlify.app/)  
+- 🔹 [Gadget Heaven](https://gadget-heaven-tech-hub.netlify.app/)  
+- 🔹 [NHB Dream 11](https://nhb-dream-11.netlify.app/)  
+- 🔹 [PetVibe](https://petvibe.netlify.app/)  
+➡️ **View More**: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)
 
-I’m currently self-learning Data Structures and Algorithms (DSA) using JavaScript, alongside my web development journey. Strengthening my problem-solving skills to become a more efficient and confident developer. 🚀
+---
 
+## 💡 Problem Solving
 
-### ⚡ Beyond Coding:
-🏏 Cricket Enthusiast (Opening Batsman) | 🏊 Passion for Swimming  
+- 🔢 Actively practicing on [Codeforces](https://codeforces.com/profile/nahidbappi13)  
+- 💻 Learning DSA with JavaScript to strengthen my logical thinking and coding speed  
 
-##  Hobbies
-Reforestation is my passion – transforming barren spaces into lush landscapes. I dream of a world where trees reach the sky, grass covers the earth, and nature thrives. Through planting, we restore balance between humanity and the environment.
+---
 
-📌 **Looking for a Junior Web Developer role** | Open to collaborations & learning opportunities!  
+## 📊 GitHub Stats & Trophies
 
-## 📫 Let's Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbappi13&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbappi13&layout=compact&theme=radical" height="165" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahid-bappi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahidbappi13@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/nbappi13)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge&logoColor=white&label=Bluesky)](https://bsky.app/profile/nahid-bappi.bsky.social)
-[![infosec.exchange](https://img.shields.io/badge/infosec.exchange-1A2B45?style=for-the-badge&logo=lock&logoColor=white)](https://infosec.exchange/@nahid_bappi)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nbappi13&theme=radical&hide_border=false" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nbappi13&theme=radical&row=1&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🎯 Goals & Aspirations
+
+- 🎯 Seeking a **Junior Web Developer** role to kickstart my tech career  
+- 🤝 Open to **collaborations** on real-world projects or open-source contributions  
+- 📘 Learning deeply about **clean code, REST APIs, and scalable systems**
+
+---
+
+## ⚡ Beyond Coding
+
+- 🏏 Cricket Enthusiast (Opening Batsman)  
+- 🏊 Passionate Swimmer  
+- 🌱 Nature Lover | Advocate for Reforestation  
+> “I dream of a world where trees reach the sky, grass covers the earth, and nature thrives.”
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid-bappi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nahidbappi13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/nbappi13"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://bsky.app/profile/nahid-bappi.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge&logoColor=white&label=Bluesky" /></a>
+  <a href="https://infosec.exchange/@nahid_bappi"><img src="https://img.shields.io/badge/infosec.exchange-1A2B45?style=for-the-badge&logo=lock&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  🛠️ Made with dedication & dreams. Let's build something great together!
+</p>
