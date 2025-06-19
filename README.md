@@ -38,12 +38,13 @@
 
 | Name | Live Demo | Stack |
 |------|-----------|-------|
-| Culinary Canvas | [Live](https://culinary-canvas-kitchen.netlify.app/) | React, Tailwind, Firebase |
-| Sports Gear | [Live](https://sports-gear.netlify.app/) | React, REST API |
-| Career Inspire | [Live](https://career-inspire.netlify.app/) | HTML, CSS, JS |
-| Gadget Heaven | [Live](https://gadget-heaven-tech-hub.netlify.app/) | React, Tailwind |
-| NHB Dream 11 | [Live](https://nhb-dream-11.netlify.app/) | JS, Bootstrap |
-| PetVibe | [Live](https://petvibe.netlify.app/) | React, DaisyUI |
+| Culinary Canvas | [Live](https://culinary-canvas-kitchen.netlify.app/) | JWT, React.js, Node.js, Express.js, MongoDB, Firebase, dotenv, cors, cookie-parser,Vite, Axios,
+TanStack Query, Context API, |
+| Sports Gear | [Live](https://sports-gear.netlify.app/) | Node.js, Express.js, MongoDB, dotenv, cors, React.js, Vite, Axios, Tailwind CSS, TanStack Query, Lottie React, React Slick, React Icons, Styled-Components, React Helmet, Context API |
+| Career Inspire | [Live](https://career-inspire.netlify.app/) |React.js, vite, Firebase, DaisyUi, HTML, react helmet, AOS, Swiper, React Modal, material-tailwind, React Toastify |
+| Gadget Heaven | [Live](https://gadget-heaven-tech-hub.netlify.app/) | React.js, firebase, Tailwind, DaisyUi, React Helmet Async, React Icons, React Toastify, Lodash.debounce |
+| NHB Dream 11 | [Live](https://nhb-dream-11.netlify.app/) | React.js, React Toastify |
+| PetVibe | [Live](https://petvibe.netlify.app/) | Js, html, css |
 
 🧪 View More: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)
 
