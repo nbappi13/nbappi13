@@ -38,8 +38,7 @@
 
 | Name | Live Demo | Stack |
 |------|-----------|-------|
-| Culinary Canvas | [Live](https://culinary-canvas-kitchen.netlify.app/) | JWT, React.js, Node.js, Express.js, MongoDB, Firebase, dotenv, cors, cookie-parser,Vite, Axios,
-TanStack Query, Context API, |
+| Culinary Canvas | [Live](https://culinary-canvas-kitchen.netlify.app/) | JWT, React.js, Node.js, Express.js, MongoDB, Firebase, dotenv, cors, cookie-parser,Vite, Axios, TanStack Query, Context API |
 | Sports Gear | [Live](https://sports-gear.netlify.app/) | Node.js, Express.js, MongoDB, dotenv, cors, React.js, Vite, Axios, Tailwind CSS, TanStack Query, Lottie React, React Slick, React Icons, Styled-Components, React Helmet, Context API |
 | Career Inspire | [Live](https://career-inspire.netlify.app/) |React.js, vite, Firebase, DaisyUi, HTML, react helmet, AOS, Swiper, React Modal, material-tailwind, React Toastify |
 | Gadget Heaven | [Live](https://gadget-heaven-tech-hub.netlify.app/) | React.js, firebase, Tailwind, DaisyUi, React Helmet Async, React Icons, React Toastify, Lodash.debounce |
