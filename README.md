@@ -93,11 +93,9 @@
 ### 💬 Something Personal
 
 > *“I believe in growing trees 🌳 and growing knowledge 📚. Whether in code or nature, growth is my purpose.”*  
-> — Nahid Hasan Bappi
 
 ---
 
 <div align="center">
-  🔍 Actively seeking a **Junior Web Developer** role  
-  🤝 Open to internships, open-source, and freelance projects  
+  🔍 Actively seeking a **Junior Web Developer** role   
 </div>
