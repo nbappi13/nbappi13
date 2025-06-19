@@ -25,7 +25,7 @@
 </p>
 
 🧠 Comfortable with: JavaScript, React, Node.js, MongoDB, Express.js  
-🧰 Tools I use: GitHub, Postman, VS Code, Vercel, Netlify, npm/yarn Excel, Word, PowerPoint, Canva 
+🧰 Tools I use: GitHub, Postman, VS Code, Vercel, Netlify, npm/yarn Excel, Word, PowerPoint, Canva
 📈 Learning now: Next.js, DSA (JavaScript), TypeScript, Redux 
 🧩 Bonus: Strong leadership, communication & analytical thinking
 
