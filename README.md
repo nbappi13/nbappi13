@@ -1,6 +1,6 @@
 <!-- HEADER WITH PROFILE IMAGE -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username-here" width="100" style="border-radius: 50%" alt="Nahid Hasan Bappi's Avatar" />
+  <img src="https://github.com/nbappi13.png" width="120" style="border-radius: 50%" alt="Nahid Hasan Bappi's Avatar" />
   <h1>Hi, I'm Md. Nahid Hasan Bappi 👋</h1>
   <p><i>Aspiring Junior Web Developer | Lifelong Learner | Problem Solver</i></p>
   <a href="mailto:nahidbappi13@gmail.com">📩 Contact Me</a>
