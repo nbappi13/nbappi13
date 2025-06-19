@@ -10,7 +10,8 @@ Throughout my academic journey at **Dhaka University**, I have cultivated strong
 - **Web Development**: JavaScript, React, Node.js, MongoDB, Express.js, JWT  
 - **Programming**: C Programming (Problem Solving & Logical Thinking), JavaScript  
 - **Other Tools**: Git/GitHub, Postman, Microsoft Excel, PowerPoint, Word, Google Suite 
-- **Soft Skills**: Leadership, Communication, Critical Thinking, Policy Analysis  
+- **Soft Skills**: Leadership, Communication, Critical Thinking, Policy Analysis
+- **Currently Exploring**: Next.js, Typescript, DSA with JavaScript.
 
 
 ## 🌐 Live Projects & Problem Solving
