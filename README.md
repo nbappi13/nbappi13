@@ -45,7 +45,7 @@
 | NHB Dream 11 | [Live](https://nhb-dream-11.netlify.app/) | React.js, React Toastify |
 | PetVibe | [Live](https://petvibe.netlify.app/) | Js, html, css |
 
-🧪 View More: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)
+🧪 View More: [My Wesite](https://nahid-bappi.vercel.app/)
 
 ---
 
