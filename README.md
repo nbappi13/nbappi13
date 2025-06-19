@@ -21,12 +21,12 @@
 ### ⚒️ My Stack at a Glance
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,postman,vscode" />
 </p>
 
 🧠 Comfortable with: JavaScript, React, Node.js, MongoDB, Express.js  
-🧰 Tools I use: GitHub, Postman, Excel, Word, PowerPoint  
-📈 Learning now: DSA (JavaScript), Next.js, TypeScript  
+🧰 Tools I use: GitHub, Postman, VS Code, Vercel, Netlify, npm/yarn Excel, Word, PowerPoint, Canva 
+📈 Learning now: Next.js, DSA (JavaScript), TypeScript, Redux 
 🧩 Bonus: Strong leadership, communication & analytical thinking
 
 ---
