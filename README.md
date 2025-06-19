@@ -1,6 +1,6 @@
 <!-- HEADER WITH PROFILE IMAGE -->
 <div align="center">
-<img src="./banner.png" alt="Md. Nahid Hasan Bappi - Web Developer" style="width:100%; border-radius: 10px;" />
+<img src="./banner.png" alt="Md. Nahid Hasan Bappi - Web Developer" style="width:100%; border-radius: 5px;" />
   <h1>Hi, I'm Md. Nahid Hasan Bappi 👋</h1>
   <p><i>Aspiring Junior Web Developer | Lifelong Learner | Problem Solver</i></p>
   <a href="mailto:nahidbappi13@gmail.com">📩 Contact Me</a>
