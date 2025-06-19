@@ -1,72 +1,77 @@
-<!-- HEADER WITH PROFILE IMAGE -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username-here" width="100" style="border-radius: 50%" alt="Nahid Hasan Bappi's Avatar" />
-  <h1>Hi, I'm Md. Nahid Hasan Bappi 👋</h1>
-  <p><i>Aspiring Junior Web Developer | Lifelong Learner | Problem Solver</i></p>
-  <a href="mailto:nahidbappi13@gmail.com">📩 Contact Me</a>
-</div>
-
----
-
-### 👨‍💻 Who Am I?
-
-🎓 A sociology graduate from **Dhaka University** who fell in love with code  
-🛠️ Transitioned into **web development** with a passion for building things from scratch  
-💡 Driven by curiosity, logic, and clean UI/UX  
-🌱 Currently diving deep into **DSA, Next.js & TypeScript**
-
----
-
-### ⚒️ My Stack at a Glance
-
+<!-- Centered Hero Header -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,postman,vscode" />
+  <img src="https://avatars.githubusercontent.com/u/nbappi13?v=4" width="120" style="border-radius: 50%" alt="Md. Nahid Hasan Bappi's Avatar" />
 </p>
 
-🧠 Comfortable with: JavaScript, React, Node.js, MongoDB, Express.js  
-🧰 Tools I use: GitHub, Postman, Excel, Word, PowerPoint  
-📈 Learning now: DSA (JavaScript), Next.js, TypeScript  
-🧩 Bonus: Strong leadership, communication & analytical thinking
+<h1 align="center">Hey there! I'm Md. Nahid Hasan Bappi 👋</h1>
+
+<p align="center"><strong>Aspiring Junior Web Developer</strong> | MERN Stack | Problem Solver | Dhaka, Bangladesh</p>
+
+<p align="center">
+  <a href="mailto:nahidbappi13@gmail.com">📧 Email</a> • 
+  <a href="https://www.linkedin.com/in/nahid-bappi/">💼 LinkedIn</a> • 
+  <a href="https://nahid-bappi.vercel.app/">🌐 Portfolio</a> • 
+  <a href="https://github.com/nbappi13">💻 GitHub</a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+## 🌟 Summary
 
-| Name | Live Demo | Stack |
-|------|-----------|-------|
-| Culinary Canvas | [Live](https://culinary-canvas-kitchen.netlify.app/) | React, Tailwind, Firebase |
-| Sports Gear | [Live](https://sports-gear.netlify.app/) | React, REST API |
-| Career Inspire | [Live](https://career-inspire.netlify.app/) | HTML, CSS, JS |
-| Gadget Heaven | [Live](https://gadget-heaven-tech-hub.netlify.app/) | React, Tailwind |
-| NHB Dream 11 | [Live](https://nhb-dream-11.netlify.app/) | JS, Bootstrap |
-| PetVibe | [Live](https://petvibe.netlify.app/) | React, DaisyUI |
-
-🧪 View More: [My Netlify Portfolio](https://app.netlify.com/teams/nbappi13/sites)
+> A passionate **MERN Stack developer** with 10+ hands-on projects, including 3 full-stack web apps.  
+> Skilled in **JavaScript**, **React.js**, and **REST APIs**. Currently leveling up with **Next.js**, **TypeScript**, and **DSA in JavaScript**.  
+> Known for my **clean UI, secure backend, and responsive design**. I love solving real-world problems with code.
 
 ---
 
-### 🔍 Problem Solving Journey
+## 🛠️ Tech Stack
 
-- Practicing C programming on [Codeforces](https://codeforces.com/profile/nahidbappi13)  
-- Regularly sharpening logic, time management, and thinking in code  
-- Current Goal: 1500+ rating & solving DSA in JS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,nextjs,html,css,tailwind,firebase,git,github,vscode,vercel,netlify" />
+</p>
 
 ---
 
-### 📊 GitHub Overview
+## 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nbappi13&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbappi13&layout=compact&theme=tokyonight" height="160" />
-</div>
+### 🍽️ Culinary Canvas  
+A full-stack restaurant web app with Firebase Auth, secure food ordering, admin controls & more.  
+🔗 [Live Site](https://culinary-canvas-kitchen.netlify.app/) • [Client](https://github.com/nbappi13/Culinary-Canvas) • [Server](https://github.com/nbappi13/Culinary-Canvas-Server)
 
-<div align="center">
+### 🏀 SportsGear  
+A sleek e-commerce app for sports gear with cart system, CRUD operations & private routes.  
+🔗 [Live Site](https://sports-gear.netlify.app/) • [Client](https://github.com/nbappi13/SportsGear) • [Server](https://github.com/nbappi13/SportsGear-server)
+
+### 💼 Career Inspire  
+Job-hunting themed site using HTML/CSS and JavaScript — responsive, clean UI.  
+🔗 [Live Site](https://career-inspire.netlify.app/)
+
+➡️ Explore more projects on [my portfolio](https://nahid-bappi.vercel.app/)
+
+---
+
+## 📚 Learning Journey
+
+- ✅ Built real-world MERN stack apps with clean architecture  
+- 🔄 Currently learning **Next.js**, **TypeScript**, and **DSA with JavaScript**  
+- 💻 Practicing competitive programming on [Codeforces](https://codeforces.com/profile/nahidbappi13)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbappi13&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbappi13&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=nbappi13&theme=tokyonight" />
-</div>
+</p>
 
 ---
 
-### 🏆 Achievements & Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nbappi13&theme=flat&title=Commit,Repositories,Followers,Stars&margin-w=15" />
@@ -74,26 +79,28 @@
 
 ---
 
-### 🔗 Let's Connect & Collaborate
+## 💬 About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/nahid-bappi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+- 🎓 Sociology graduate from **University of Dhaka**
+- 💬 Strong background in **leadership, communication, and analysis**
+- 🌱 Advocate for **reforestation** and green causes 🌳  
+- 🏏 Cricket lover | 🏊 Swimmer | 📖 Nature-focused dreamer
+
+---
+
+## 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nahid-bappi/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:nahidbappi13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/nbappi13"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://x.com/nbappi13"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://bsky.app/profile/nahid-bappi.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0066FF?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://infosec.exchange/@nahid_bappi"><img src="https://img.shields.io/badge/infosec.exchange-1A2B45?style=for-the-badge&logo=lock&logoColor=white" /></a>
-</div>
+  <a href="https://infosec.exchange/@nahid_bappi"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+</p>
 
 ---
 
-### 💬 Something Personal
-
-> *“I believe in growing trees 🌳 and growing knowledge 📚. Whether in code or nature, growth is my purpose.”*  
-> — Nahid Hasan Bappi
-
----
-
-<div align="center">
-  🔍 Actively seeking a **Junior Web Developer** role  
-  🤝 Open to internships, open-source, and freelance projects  
-</div>
+<p align="center">
+  🚀 Open to roles: <strong>Junior Web Developer | Frontend Developer | MERN Stack Intern</strong>  
+  🤝 Let’s build the future — together!
+</p>
